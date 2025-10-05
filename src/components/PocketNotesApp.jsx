@@ -1,4 +1,4 @@
-import backgroundImage from '../assets/backgroundImage.png';
+import backgroundImage from '../../assets/backgroundImage.png';
 
 
 import React, { useState, useEffect } from 'react';

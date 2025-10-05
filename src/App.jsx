@@ -1,6 +1,6 @@
 
 import React from 'react'
-import PocketNotesApp from './PocketNotesApp'
+import PocketNotesApp from './components/PocketNotesApp'
 import './App.css'
 const App = () => {
   return (
